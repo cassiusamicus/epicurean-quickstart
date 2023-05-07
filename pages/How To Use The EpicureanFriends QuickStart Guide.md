@@ -1,0 +1,9 @@
+- This QuickStart guide can be used to orient yourself to the fundamentals of Epicurean philosophy in short order.  It's real power, however, comes when you use it as an annotation tool to make your own notes and applications to the existing text.  While you can review all the available text on this screen, in order to download this database and adapt it for yourself, use the following procedure:
+- 1. Download and Install [Logseq](https://logseq.com/downloads) on your computer or tablet or smartphone.
+- 2. Download and save this QuickStart Guide in a directory to your computer
+- 3. Open Logseq, select "Add New Graph" from the top left menu, and open the "Quick Start Guide to Epicurean Philosophy" from the location where you saved it.
+- That's all there is to it!  Once you have downloaded Logseq you can read the material, follow the exercises, and make your own unique notes here in the Quick Start Guide as you go.
+- ---
+- **Next:** [[Step 1:  Learn the Significance of Epicurean Philosophy]]
+- **Home:** [[QuickStart Guide To Epicurean Philosophy]]
+-

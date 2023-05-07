@@ -1,0 +1,9 @@
+- ![image.png](../assets/image_1683385688554_0.png)
+- ### [[How To Use The EpicureanFriends QuickStart Guide]]
+- ### [[Step 1  Learn the Significance of Epicurean Philosophy]]
+- ### [[Step 2  Learn the History and Key Sources of Epicurean Philosophy]]
+- ### [[Step 3  Begin the Study of Nature through Epicurean Canonics and Physics]]
+- ### [[Step 4  Free Yourself From Supernatural Gods, Fatalism, and Fear of Death]]
+- ### [[Step 5  Identify Pleasure As Nature's Guide to Life]]
+- ### [[Step 6  Understand Why Being "Virtuous" or "Good" Is Not An End In Itself]]
+- ### [[Step 7  Implement the Epicurean Worldview and Lifestyle Yourself]]
